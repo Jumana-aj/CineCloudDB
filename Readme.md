@@ -14,12 +14,6 @@ CineCloud is a full-featured OTT (Over-The-Top) streaming platform designed to l
 
 ---
 
-## UI Preview
-
-### CineCloud Web Interface  
-![CineCloud UI](./screenshots/ui.png)
-
----
 
 ## Tech Stack
 
